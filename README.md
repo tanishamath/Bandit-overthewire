@@ -8,6 +8,9 @@ The password to enter into the level 0 is bandit0.
 We use the ls command to list the files in the head directory. Use cat command that concatenates or can be used to display the content of a file.
 Command used: cat readme
 We use exit command to exit the level.
+![image](https://github.com/user-attachments/assets/0acfb2da-f23b-4596-b851-2aedd228fb03)
+
+
  
 ### LEVEL 1
 ssh bandit1@bandit.labs.overthewire.org -p2220
